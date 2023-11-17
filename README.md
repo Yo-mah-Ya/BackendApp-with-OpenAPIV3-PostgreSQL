@@ -46,9 +46,9 @@ yarn workspace @backend/api test
 ### add libraries to the entire project
 
 ```
-yarn workspace add `some package` -W
+yarn add `some package` -W
 or
-yarn workspace add --dev `some package` -W
+yarn add --dev `some package` -W
 ```
 
 ### OpenAPI docs
